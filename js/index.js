@@ -7,7 +7,7 @@ console.log(`The navigator's name is ${hacker2}`)
 
 
 // Iteration 2: Conditionals 
-/*
+
       if (hacker1.length >= hacker2.length) {  
         console.log(`The driver has the longest name, it has ${hacker1.length} characters.`)  
         } else if (hacker2.length >= hacker1.length) {    
@@ -16,12 +16,12 @@ console.log(`The navigator's name is ${hacker2}`)
            console.log(`Wow, you both have equally long names, ${hacker2.length} characters!`)
        }   
        
-       SyntaxError: Unexpected token '{' */
+       /* SyntaxError: Unexpected token '{' */
     
 // Iteration 3: Loops
-/*
+
 for(let i = 0; i <= hacker1.length; i++) {
   result += hacker1[i].toUpperCase() + " ";
   } 
-  console.log(result); */
+  console.log(result); 
 /* result is not defined */
